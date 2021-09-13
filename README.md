@@ -4,4 +4,4 @@
 
 # Elastic Search Index
 
-![image](https://user-images.githubusercontent.com/57784077/133026635-5a8048a8-ad0a-4307-aa42-95b6083e3a75.png)
+![image](https://user-images.githubusercontent.com/57784077/133026787-a041835a-2829-4b1d-8510-7ec09a4ae9f3.png)
